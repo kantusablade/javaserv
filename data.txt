@@ -1,0 +1,1 @@
+CPU Load: -1.0, IP Address: Windows 10, Free Memory: 131300576
