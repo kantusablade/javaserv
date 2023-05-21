@@ -16,7 +16,7 @@ public class Client {
             long freeMemory = Runtime.getRuntime().freeMemory();
 
 // Формирование строки с данными
-            String data = "CPU Load: " + cpuLoad + ", IP Address: " + OC + ", Free Memory: " + freeMemory;
+            String data = "CPU Load: " + cpuLoad + ", OC: " + OC + ", Free Memory: " + freeMemory;
 
 // Сохранение данных в файл
             saveToFile("data.txt", data);
